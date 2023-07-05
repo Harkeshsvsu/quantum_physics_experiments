@@ -1,0 +1,35 @@
+#div1{
+    background-image: -moz-linear-gradient();
+    text-align: center;
+    color:#003049;
+    font-size: 150px;
+    background-image: pexels-stein-egil-liland-3451755jpg;
+}
+#object1{
+    /* padding-left:px; */
+    text-align: center;
+}
+h1{
+    color: #d62828;
+}
+pre{
+    font-size: 20px;
+    color:#001d3d;
+}
+h2{
+    color: #f77f00;
+}
+img{
+   padding-left: 100px;
+}
+h3{
+    color: #ecc518;
+}
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+#p1{
+    text-align: right;
+}  
